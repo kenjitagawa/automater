@@ -14,7 +14,7 @@ For this to work, the file should be cloned on your "Users" folder. If not, the 
 
 ### Note: The script runs with PyGitHub, therefore, to authenticate, you need a **GitHub token**. [Here's How](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token)
 
-2. The script is also made to run with **SSH keys**. You will thus need to enable SSH key on your account. 
+2. The script is also made to run with **SSH keys**. You will thus need to enable SSH key on your account. [Read Docs Here!](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 ## Running
 
